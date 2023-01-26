@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kwon Sungjae"
-  avatar           : "image/profile/2020me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "image/profile/2020me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**데이터 공부 합니다.**<br>열심히 합시다."
   location         : "Republic of Korea"
   email            : #"sungjae777@naver.com"
